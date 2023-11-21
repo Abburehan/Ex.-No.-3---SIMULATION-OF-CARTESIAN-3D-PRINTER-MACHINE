@@ -64,7 +64,8 @@
 
 
 ## Output:
-![image](https://github.com/Abburehan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849336/049c23fd-8cc6-4bff-9aef-7387de7c1248)
+![image](https://github.com/Abburehan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849336/8b45c935-4545-4d7c-9c41-7e78efd5ea4b)
+
 
 ### Name: Abbu Rehan
 ### Register Number: 23010259
